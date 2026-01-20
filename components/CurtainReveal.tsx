@@ -18,7 +18,7 @@ export const CurtainReveal: React.FC = () => {
       style={{ opacity: isVisible ? 1 : 0 }}
     >
       <div className="text-luxury-gold font-serif text-3xl tracking-ultra-wide animate-pulse">
-        WEDDING SURPRISERZ
+        VSS WEDDINGS
       </div>
     </div>
   );

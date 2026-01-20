@@ -3,7 +3,7 @@ import { Review, WeddingService } from './types';
 export const BUSINESS_INFO = {
   name: "VSS Weddings and Events",
   address: "near Shanidham Mandir, Zhenda Colony, Asola, Chhatarpur, New Delhi, Delhi 110074",
-  phone: "+91 98765 43210",
+  phone: "+91 9810299887",
   email: "celebrate@weddingsurpriserz.com"
 };
 
